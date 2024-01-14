@@ -18,6 +18,9 @@ public class PIMPageTest {
 
 		pimpage.searchEmployee();
 
+		pimpage.deleteEmployee();
+		
+		pimpage.validateEmployeeDelete();
 	}
 
 }
